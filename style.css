@@ -3,7 +3,7 @@ html{
     width: 100%;
   }
   
-*{font: Lexend;}
+*{font-family: "Lexend", sans-serif;}
   
 body{background-color: #F5DD90;}
   
