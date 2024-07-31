@@ -26,8 +26,10 @@ main{
     flex-wrap: wrap;
 }
 
-.article{width: 300px; margin: 20px; background-color: #324376;}
-
+a[class="article"]{display: block;}
+.article{width: 300px; margin: 40px 20px; background-color: #324376;}
+.article:hover{text-decoration: none;}
+.article img{width: 100%;}
 .article p{padding: 5px; color: #FFFFFF; text-align: center;}
 
 .placeholder-image{width: 100%; height: 200px; background-color: #F68E5F;}
